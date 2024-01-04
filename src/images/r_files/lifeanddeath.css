@@ -1,0 +1,154 @@
+.resume{
+    width:90%;
+    margin: auto;
+    background-color:black;
+    color:white !important;
+    margin-top: 200px;
+    margin-bottom: 200px;
+    border-radius: 10px;
+    padding:100px;
+    border:1px solid rgb(221, 90, 90);
+    
+}
+
+.image img{
+    width:200px;
+    height:300px;
+    border-radius: 5px;
+}
+
+.role h4{
+    letter-spacing: 8px;
+}
+
+.name h1{
+    /* color: rgb(37, 36, 33); */
+    font-family: 'Cinzel', serif;
+}
+
+
+.contact{
+    display: flex;
+    justify-content: space-between;
+    margin-top:100px;
+}
+
+
+.c{
+    margin-top: 70px !important;
+}
+
+.email{
+    width:fit-content;
+}
+
+
+.hi{
+	display: flex;
+	justify-content:space-between;
+}
+
+/* .hii{
+	width:85%;
+	margin: auto;
+} */
+
+
+.hi2{
+	display: flex;
+	justify-content: space-between;
+	width:70%;
+	margin: auto;
+}
+
+
+.technicalskills{
+    font-family: 'Cinzel', serif;
+}
+
+
+.fa-bootstrap{
+	color:violet;
+}
+
+.fa-html5 {
+	color:rgba(255, 0, 0, 0.637);
+}
+
+
+.dj{
+	padding-top: 23px !important;
+}
+
+.fa-css3-alt{
+	color:lightskyblue;
+}
+
+
+.fa-database{
+	color:orangered;
+}
+
+
+.hii{
+    margin-top: 150px;;
+}
+
+
+p{
+    font-weight: 500 !important;
+}
+
+li{
+    font-weight: 500 !important;
+}
+
+
+.row{
+    /* margin-top: 200px !important; */
+}
+
+.projects{
+    margin-top: 150px !important;
+}
+
+.academic{
+    margin-top: 150px !important;
+}
+
+.internship{
+    margin-top: 150px !important;
+}
+
+.softskillsandlanguages{
+    margin-top: 150px !important;
+}
+
+.languages{
+    position: relative;
+}
+
+.lan{
+    position: absolute;
+    left:200px;
+    right:0;
+    top:80px;
+    bottom:0;
+}
+
+
+.spacingneeded{
+    letter-spacing: 3px;
+}
+
+.h{
+    position: relative;
+}
+
+.absolute{
+    position: absolute;
+    top:60px;
+    bottom: 0%;
+    left: 210px;
+    right:0%
+}
